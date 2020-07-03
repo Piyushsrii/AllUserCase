@@ -29,3 +29,5 @@ randomVariable=$EmpCheck
                  echo $totalSalary
                  ((Startingdays++))
 done
+# Proving to merge two branches in same repo
+

@@ -27,3 +27,5 @@ randomVariable=$EmpCheck
                ((Startingdays++))
         done
                  echo $salary
+# now i am commented in EmplyeeUC6.sh
+

@@ -18,3 +18,4 @@ else
 fi
     salary=$(($empHrs*$empRatePerHr));
       echo $salary
+#Now iam commented in EmployeeUC3.sh
